@@ -1,4 +1,4 @@
-Sistem Pendukung Keputusan untuk Diagnosa penyakit Balita menggunakan metode forward chaining
+Sistem Pendukung Keputusan untuk Diagnosa penyakit yang disebabkan oleh rokok menggunakan metode forward chaining
 
 
 #create database db_penyakit 
